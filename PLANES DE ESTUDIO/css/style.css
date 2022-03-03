@@ -1,0 +1,20 @@
+#foto {
+    display:block; 
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+H1{COLOR: BLUE; text-align: center;background-color: cyan;}
+
+h2{COLOR:rgb(22, 37, 252);background-color: grey;}
+
+#footer {color: white;background-color: navy;text-align: center;}
+
+h3{font-weight: bold;}
+footer {
+    display: flex;
+    justify-content: center;
+    background-color:grey
+}
